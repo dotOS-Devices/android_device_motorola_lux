@@ -5,7 +5,7 @@
   },
   {
     "repository":  "proprietary_vendor_motorola_lux",
-    "target_path": "vendor/motorola/lux"
+    "target_path": "vendor/motorola"
   },  
   {
     "repository":  "android_kernel_motorola_lux",
